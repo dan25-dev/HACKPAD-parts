@@ -10,3 +10,5 @@ lom (list of materials)
 15x Through-hole 1N4148 Diodes
 
 <img width="1952" height="1038" alt="image" src="https://github.com/user-attachments/assets/4d57f662-e60e-4b2f-a78e-357491f35b2a" />
+
+<img width="1338" height="891" alt="image" src="https://github.com/user-attachments/assets/61e21be7-06f6-4435-a4f6-61fdaa1b0313" />
